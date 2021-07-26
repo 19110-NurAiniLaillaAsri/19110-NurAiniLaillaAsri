@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Nur Aini Lailla Asri**\
+🌱 Saya seorang mahasiswi di **Universitas Singaperbangsa Karawang**\
+🌱 Fakultas **Ilmu Komputer**\
+🌱 Jurusan **Teknik Informatika**
 <!--
 **19110-NurAiniLaillaAsri/19110-NurAiniLaillaAsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
